@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "thie2445_abangdsm", "*topdsm725", "thie2445_dbporto");
+$conn = mysqli_connect("localhost", "root", "", "myporto");
 
 function query($data)
 {
